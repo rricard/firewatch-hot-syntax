@@ -6,5 +6,12 @@ A Syntax Theme inspired by [Firewatch](http://www.firewatchgame.com/). Wallpaper
 
 ## Install
 
-```apm install octocat-syntax```
+Search for the syntax theme in Atom.
+
+![Install Firewatch Syntax](https://cloud.githubusercontent.com/assets/2699745/13486599/aec3d316-e112-11e5-9184-ceca15245bcf.png)
+
+
+or run 
+
+```apm install firewatch-syntax```
 
