@@ -13,5 +13,7 @@ Search for the syntax theme in Atom.
 
 or run 
 
-```apm install firewatch-syntax```
+```
+apm install firewatch-syntax
+```
 
