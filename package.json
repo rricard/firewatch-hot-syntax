@@ -10,7 +10,7 @@
     "syntax",
     "hot"
   ],
-  "repository": "https://github.com/rricard/firewatch-syntax-hot",
+  "repository": "https://github.com/rricard/firewatch-hot-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
