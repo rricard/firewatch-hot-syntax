@@ -1,8 +1,7 @@
-
 // Editor styles (background, gutter, guides)
 
-atom-text-editor, // <- remove when Shadow DOM can't be disabled
-:host {
+atom-text-editor {
+  // <- remove when Shadow DOM can't be disabled
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 
@@ -40,7 +39,6 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
   }
 
   .gutter {
-
     .line-number {
       color: @syntax-gutter-text-color;
       -webkit-font-smoothing: antialiased;
@@ -63,7 +61,7 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
         bottom: -3px;
       }
       &::after {
-        content: "";
+        content: '';
         position: absolute;
         left: 0px;
         bottom: 0px;
