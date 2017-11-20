@@ -1,9 +1,15 @@
 {
   "name": "firewatch-hot-syntax",
   "theme": "syntax",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "A hotter firewatch inspired syntax theme",
-  "keywords": ["dark", "red", "firewatch", "syntax", "hot"],
+  "keywords": [
+    "dark",
+    "red",
+    "firewatch",
+    "syntax",
+    "hot"
+  ],
   "repository": "https://github.com/rricard/firewatch-hot-syntax",
   "license": "MIT",
   "engines": {
